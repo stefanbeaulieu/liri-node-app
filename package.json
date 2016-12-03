@@ -1,0 +1,19 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "npm packages for liri-node-app",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanbeaulieu/liri-node-app.git"
+  },
+  "author": "Stefan Beaulieu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefanbeaulieu/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/stefanbeaulieu/liri-node-app#readme"
+}
